@@ -4,7 +4,7 @@
 * Carlos Casas Arenas 1000406984 Ingeniería de Sistemas
 
 ## Proyecto
-El dataset y la informacion para realizar este proyecto provienen de [La competición Kaggle Colombia House Prediction](https://www.kaggle.com/competitions/titanic)
+El dataset y la informacion para realizar este proyecto provienen de [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
 
 ## Pasos a seguir
 1. Abra la carpeta fase 1
