@@ -1,7 +1,6 @@
 # Fase 1
 
 Lo que se hace en esta fase del proyecto, es obtener un dataset de Kaggle y realizar un modelo de predicciones iniciales, basico y sencillo.
-
 En futuras fases se implementará mas factores que mejorarán la calidad de las predicciones y datos resultantes.
 
 ## Pasos a seguir
