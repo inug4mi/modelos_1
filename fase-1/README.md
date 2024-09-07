@@ -4,7 +4,7 @@ En futuras fases se implementará mas factores que mejorarán la calidad de las 
 
 ## ¿Que se hizo?
 + Se obtuvo un dataset de kaggle basado en caracteristicas de las personas que abordaron el barco Titanic el día de su hundimiento.
-+ Se aplicó un modelo de ML 'Random Forest' para obtener predicciones iniciales y base sobre aquellas personas sobrevivientes.
++ Se aplicó un modelo de ML 'Random Forest' para obtener predicciones iniciales sobre aquellas personas sobrevivientes.
 
 ## Pasos a seguir
 1. Hacer click en el archivo llamado 'modelo_base.ipynb'.
