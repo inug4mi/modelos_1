@@ -7,6 +7,6 @@ En futuras fases se implementará mas factores que mejorarán la calidad de las 
 + Se aplicó un modelo de ML 'Random Forest' para obtener predicciones iniciales sobre aquellas personas que sobrevivieron o no.
 
 ## Pasos a seguir
-1. Hacer click en el archivo llamado ´01 - exploración.ipynb´.
+1. Hacer click en el archivo llamado [01 - exploración.ipynb](https://github.com/inug4mi/Modelos-1).
 2. Unicamente es necesario observar y leer cada celda.
 
