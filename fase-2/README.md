@@ -3,9 +3,9 @@
 En esta fase del proyecto se configura una imagen de Docker usando Dockerfile. Esta imagen contendrá las librerias necesarias para que funcione los scripts train.py y predict.py los cuales se quemaran en la imagen también.
 La imagen tendrá dos scripts:
 
-predict.py: que dado un conjunto de datos de entrada como un fichero csv, emita una predicción para cada dato de entrada, usando un modelo previamente almacenado en disco.
+train.py: conjunto de entrenamiento.
 
-train.py: que dado un conjunto de entrenamiento (datos más etiquetas), entrene de nuevo el modelo y guarde una versión nueva del mismo.
+predict.py: emita una predicción para cada dato de entrada, usando un modelo previamente almacenado en disco (model.pkl, generado por train.py).
 
 ## Construir la imagen en docker:
 **Ejecutar el comando:**
