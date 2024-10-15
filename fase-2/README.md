@@ -16,6 +16,8 @@ docker build -t ml-scripts .
 # En Windows:
 ## Ejecutar train.py como volumen en docker:
 
+para acceder a la ruta de directorio actual en sistemas linux ${PWD} en sistemas windows %CD%
+
 docker run -v $PWD/output:/usr/src/app/output ml-scripts python train.py --data_file /usr/src/app/output/train_data.csv --model_file /usr/src/app/output/model.pkl --overwrite_model
 
 El contenedor está montando el volumen output en el directorio /usr/src/app/output, lo que asegura que cualquier archivo creado o modificado en esa ruta persista en tu sistema anfitrión.
