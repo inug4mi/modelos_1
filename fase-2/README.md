@@ -1,7 +1,6 @@
 # Fase 2:
 
-En esta fase del proyecto se configura un contenedor de Docker con todas las librerías necesarias para correr el modelo.
-
+En esta fase del proyecto se configura una imagen de Docker usando Dockerfile. Esta imagen contendrá las librerias necesarias para que funcione los scripts train.py y predict.py los cuales se quemaran en la imagen también.
 El contenedor tiene dos scripts:
 
 predict.py: que dado un conjunto de datos de entrada como un fichero csv, emita una predicción para cada dato de entrada, usando un modelo previamente almacenado en disco.
