@@ -5,7 +5,7 @@ La imagen tendrá dos scripts:
 
 train.py: conjunto de entrenamiento.
 
-predict.py: emita una predicción para cada dato de entrada, usando un modelo previamente almacenado en disco (model.pkl, generado por train.py).
+predict.py: emita una predicción para cada dato de entrada (test_data.csv), usando un modelo previamente almacenado en disco (model.pkl, generado por train.py).
 
 ## Construir la imagen en docker:
 **Ejecutar el comando:**
